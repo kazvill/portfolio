@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/climbing-session-analytics/:path*",
+      "destination": "https://climbing-session-analytics.vercel.app/:path*"
+    }
+  ]
+}
